@@ -1,21 +1,2 @@
-/@CF
-/@Dabs Framework
-/@DayZ-Expansion-Bundle
-/@DayZ-Expansion-Licensed
-/@SNAFU Weapons
-/@VPPAdminTools
-/addons
-/battleye
-/appcache
-/docs
-/dta
-/logs
-/mpmissions
-/sakhal
-/keys
-/Server1
-*.dll
-/server_manager
-*.exe
 *.*
-/config
+/@VPPAdminTools
