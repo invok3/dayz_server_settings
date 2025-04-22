@@ -1,7 +1,7 @@
 #!/bin/bash
 
 serverName="Arab DayZ EXP PVE|PVP|PVAI"
-serverLocation="/root/.steam/steam/steamapps/common/DayZServer"
+serverLocation="/home/gamer/.steam/SteamApps/common/DayZServer"
 serverPort=2302
 serverConfig="serverDZ.cfg"
 profile="Server1"
