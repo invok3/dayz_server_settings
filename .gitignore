@@ -16,4 +16,5 @@
 /Server1
 *.dll
 /server_manager
-*.*
+*.exe
+/New folder
